@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mini-E-commerce-Store/static/css/main.4b62ce5b.css",
+    "main.js": "/Mini-E-commerce-Store/static/js/main.ae12e289.js",
+    "static/js/453.15c8c274.chunk.js": "/Mini-E-commerce-Store/static/js/453.15c8c274.chunk.js",
+    "index.html": "/Mini-E-commerce-Store/index.html",
+    "main.4b62ce5b.css.map": "/Mini-E-commerce-Store/static/css/main.4b62ce5b.css.map",
+    "main.ae12e289.js.map": "/Mini-E-commerce-Store/static/js/main.ae12e289.js.map",
+    "453.15c8c274.chunk.js.map": "/Mini-E-commerce-Store/static/js/453.15c8c274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b62ce5b.css",
+    "static/js/main.ae12e289.js"
+  ]
+}
